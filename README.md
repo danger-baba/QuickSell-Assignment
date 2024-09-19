@@ -17,12 +17,11 @@ An interactive Kanban board application built with React that interacts with the
 
 1. Clone the repository:
    ```shell
-   git clone https://github.com/vishal-86953/QuickSell_Frontend_Assignment.git
+     git clone https://github.com/danger-baba/QuickSell-Assignment.git
  
 2. Install dependencies:
     ```shell
-    cd QuickSell_Frontend_Assignment
-    npm install
+    npm i -S react-scripts
 3. Starting the development server:
     ```shell
         npm start
